@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/saharan/wknd-csc01/language-masters/en:/",
+    "/content/saharan/wknd-csc01/language-masters/en/:/en/",
+    "/content/saharan/wknd-csc01/language-masters/fr/:/fr/",
+    "/content/saharan/wknd-csc01/language-masters/fr:/fr",
+    "/content/saharan/wknd-csc01/language-masters/es/:/es/",
+    "/content/saharan/wknd-csc01/language-masters/es:/es",
+    "/content/saharan/wknd-csc01/language-masters/ja/:/ja/",
+    "/content/saharan/wknd-csc01/language-masters/ja:/ja",
+    "/content/saharan/wknd-csc01/language-masters/de/:/de/",
+    "/content/saharan/wknd-csc01/language-masters/de:/de",
+    "/content/saharan/wknd-csc01/configuration:/.helix/config.json",
+    "/content/saharan/wknd-csc01/metadata:/metadata.json",
+    "/content/saharan/wknd-csc01/redirects:/redirects.json",
+    "/content/saharan/wknd-csc01/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/saharan/wknd-csc01/",
+    "/content/dam/saharan/wknd-csc01/"
   ]
 }
